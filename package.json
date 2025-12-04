@@ -1,0 +1,9 @@
+{
+  "name": "Api_Vercel",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.22.1",
+    "serverless-http": "^3.2.0"
+  }
+}

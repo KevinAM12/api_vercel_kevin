@@ -1,8 +1,7 @@
-function Login(req,res){
-    console.log("LLegue a controller")
-    res.send({mensaje: "Usuario logueado"})
-
+function Login(req,res) {
+    console.log("Llegue al controller")
+    res.send({mensaje : "Usuario logueado"})
 }
-module.exports={
+module.exports = {
     Login
 }
